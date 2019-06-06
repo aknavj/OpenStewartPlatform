@@ -32,7 +32,7 @@ For a working applications in as it is condition follow **/app** directory.
 
 * Testing purposes
     * **Qt3DApp** - Presenting our Stewart-platform in 3D space.
-    * **QtControlTest** - Quick 'slider' application for playing around with servos. Credits [Jiri 'Akres' Kantor](https:/github.com/akres)
+    * **QtControlTest** - Quick 'slider' application for playing around with servos. Credits [Jiri 'Akres' Kantor](https://github.com/akres)
     * **QtWiiTest** - Qt3DApp Including support for a Wii Mote. Credits [Ivo 'Ajvo' Hlavnicka](https://github.com/rompucha) 
     
 * Implementation
