@@ -49,6 +49,7 @@ For a firmware or software for supported MCU's follow **/firmware** directory.
 * Atmel AtMega 16 on breadboard + PCB design (see schematics)
     * Schematic: see /design/scheamtics/atmega
     * MCU firmware: see /firmware/atmega16
+    * **Requirements**: **A fully working JTAG programmer.**
 
 * Arduino UNO
     * Schematic: see /design/schematics/arduino
