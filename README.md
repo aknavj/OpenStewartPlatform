@@ -45,7 +45,7 @@ For a working applications in as it is condition follow **/app** directory.
 
 # Firmware
 
-For a firmware or software for supported MCU's follow **/firmware** directory.
+Firmware or software for supported MCU's follow **/firmware** directory.
 
 * Atmel AtMega 16 on breadboard + PCB design (see schematics)
     * Schematic: see /design/scheamtics/atmega
