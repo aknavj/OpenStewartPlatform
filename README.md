@@ -36,7 +36,7 @@ For a working applications in as it is condition follow **/app** directory.
     * **QtWiiTest** - Qt3DApp Including support for a Wii Mote. Credits [Ivo 'Ajvo' Hlavnicka](https://github.com/rompucha) 
     
 * Implementation
-    * LFS (Life For Speed)
+    * LFS ([Life For Speed])(https://www.lfs.net/) see. https://www.lfs.net/
         * **lfs-servos:** - To be able control our platform via Socket based client from Life For Speed game
         * **lfs-rpi:** - To be able control our platform connected to Raspberry Pi via Socket based client from Life For Speed game
     * Cinema 4D
