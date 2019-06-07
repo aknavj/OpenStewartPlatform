@@ -4,7 +4,6 @@ This project is an implementation of Stewart platform with the open design, sche
 
 Project is including a following solutions:
 * [ ] 6-DOF using servo stepper motors
-* [ ] 3-DOF using servo stepper motors
 
 # GOAL
 I wanted to learn embedded development using something challenging. This project demonstrates usage of Inverse Kinematic math, Mechanic design, Electronic design, Firmware development and Software development with 3rd parties implementation.
