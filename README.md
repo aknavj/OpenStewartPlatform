@@ -27,7 +27,7 @@ For a complete design from basic theory to functional prototype follow **'/desig
 
 # Applications
 
-For a working applications in as it is condition follow **/app** directory.
+For a working applications in as it is condition follow **'/app'** directory.
 
 * Testing purposes
     * **Qt3DApp** - Presenting our Stewart-platform in 3D space.
@@ -44,7 +44,7 @@ For a working applications in as it is condition follow **/app** directory.
 
 # Firmware
 
-Firmware or software for supported MCU's follow **/firmware** directory.
+Firmware or software for supported MCU's follow **'/firmware'** directory.
 
 * Atmel AtMega 16 on breadboard + PCB design (see schematics)
     * Schematic: see /design/scheamtics/atmega
